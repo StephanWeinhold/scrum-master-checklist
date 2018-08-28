@@ -1,7 +1,7 @@
 * [ ] Wie geht es meinen Teammitgliedern?  
 Wirklich, wie geht es ihnen? Sind alle gut drauf? Hat jemand Probleme, benötigt wer meine Unterstützung? Nicht (nur) als Scrum Master, sondern (auch) als Mensch.
 * [ ] Wie geht es meinem Team?  
-Wie wachsen sie als Gruppe? In welcher [Tuckman-Phase](https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development) sind sie gerade? Zeichnen sich Entwicklungen ab, auf die ich sie vorbereiten sollte? Gibt es wo Konfliktpotential, auf das ich achten muss?
+Wie wachsen sie als Gruppe? In welcher Tuckman-Phase sind sie gerade? Zeichnen sich Entwicklungen ab, auf die ich sie vorbereiten sollte? Gibt es wo Konfliktpotential, auf das ich achten muss?
 * [ ] Wie geht es meinem Product Owner?  
 Wie läuft es bei ihm? Hat er genug Unterstützung von Team, Fachbereich und mir?
 * [ ] Wie geht es dem Fachbereich?  
