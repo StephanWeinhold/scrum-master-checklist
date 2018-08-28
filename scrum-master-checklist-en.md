@@ -1,7 +1,7 @@
 * [ ] How are my team members?  
 Really, how are they? Are they all in a good mood? Does anyone have problems, is anyone in need of my support? Not (only) as Scrum Master, but (as well) as a human being.
 * [ ] How is my team?  
-How do they grow as a group? Which [Tuckman phase] (https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development) are they experiencing? Are there any developments that I should prepare them for? Is there any potential for conflict that I have to pay attention to?
+How do they grow as a group? Which Tuckman phase are they experiencing? Are there any developments that I should prepare them for? Is there any potential for conflict that I have to pay attention to?
 * [ ] How is my product owner?  
 How are things going for him? Is he enjoying enough support from the team, the special department, and me?
 * [ ] How is the special department?  
